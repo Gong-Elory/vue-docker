@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    我是tag发布的
+    我是王者荣耀王者段位的
   </div>
 </template>
 
