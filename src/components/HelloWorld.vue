@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    我是你的爸爸，你在哪
+    我是tag发布的
   </div>
 </template>
 
